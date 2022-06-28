@@ -1,0 +1,32 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "login",
+    "line": 1,
+    "id": "login",
+    "tags": [],
+    "uri": "login.feature",
+    "elements": [
+      {
+        "id": "login;login-success",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "login success",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Entrar a la url",
+            "result": {
+              "status": "passed",
+              "duration": 1195000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

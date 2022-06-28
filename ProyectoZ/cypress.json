@@ -1,0 +1,5 @@
+{
+    "testFiles": "**/*.feature",
+    "baseUrl" : "http://tester.intertel.mx",
+    "commonPath": "/cypress/integration/login/"
+}
